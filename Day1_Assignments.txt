@@ -1,0 +1,52 @@
+Question: 1
+Student Grading System`  
+`Problem Statement: ` A university wants a grading system t
+1. `Percentage = (Total Marks / 500) × 100`  
+2. `Grading Criteria:`  
+   - `90% and above` → `Grade A`  
+   - `75% to 89%` → `Grade B`  
+   - `60% to 74%` → `Grade C`  
+   - `40% to 59%` → `Grade D`  
+   - `Below 40%` → `Fail`  
+
+`Requirements:`  
+1. `Input:`  
+   - Student Name  
+   - Marks in 5 subjects (out of 100 each)  
+2. `Output:`  
+   - Percentage  
+   - Grade  
+`Sample Test Case:`  
+`Input:`  
+Enter Student Name: Neha Gupta  
+Enter Marks: 85 90 78 88 92  
+`Output:`  
+Student Name: Neha Gupta  
+Total Marks: 433  
+Percentage: 86.6%  
+Grade: B  
+
+Question: 2
+Banking System – ATM Withdrawal`  
+`Problem Statement:`  A bank wants to automate ATM withdraw
+
+1. The account `must have sufficient balance` for withdrawa
+2. `Minimum balance required:` ₹500.  
+3. If withdrawal amount is `not a multiple of 100`, reject 
+4. If all conditions pass, `deduct the amount and display t
+`Requirements:`  
+1. `Input:`  
+   - Account Holder Name  
+   - Account Balance  
+   - Withdrawal Amount  
+2. `Output:`  
+   - Success/Failure Message  
+   - Remaining Balance (if successful)  
+`Sample Test Case:`  
+`Input:`  
+Enter Account Holder Name: Rahul Verma  
+Enter Account Balance: ₹8000  
+Enter Withdrawal Amount: ₹2500  
+`Output:`  
+Transaction Successful!  
+Remaining Balance: ₹5500  
