@@ -1,0 +1,62 @@
+Question: 1
+Weite a program to store your six friends name in array and swap the 1st name with 3rd name using Arrays.
+Sample Input:
+Kiran
+Sumanth
+Siddi
+Aakash
+Ram
+Apeksha
+
+Sample Input:
+Siddi
+Sumanth
+Kiran
+Aakash
+Ram
+Apeksha
+
+Question: 2
+Weite a program for the above question using Pinters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
