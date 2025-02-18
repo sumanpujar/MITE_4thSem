@@ -17,7 +17,7 @@ Ram
 Apeksha
 
 Question: 2
-Weite a program for the above question using Pinters.
+Weite a program for the above question using Pointers.
 
 
 
