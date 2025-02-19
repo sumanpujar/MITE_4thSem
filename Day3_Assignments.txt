@@ -1,0 +1,94 @@
+Question: 1
+
+Problem Statement:
+"A software company has a policy of hiring a set number of fresh engineers each year, 
+but this policy is subject to change every few years. Design a software system 
+that can handle these changes and adapt to varying hiring requirements over time."
+
+Question: 2 
+Problem Statement:
+
+A company is developing a simple text-based application that allows users to create 
+personalized email signatures. The user inputs their first name, last name, job title, 
+and contact information. The application needs to generate a formatted email signature by 
+concatenating these individual string inputs into one final signature string.
+
+The user may update any part of the information, and the application should efficiently 
+handle the concatenation of the updated information using pointers to avoid unnecessary 
+memory allocations and improve performance.
+sample I/O :
+Enter your first name: suman
+Enter your last name: pujar
+Enter your job title: Software Engineer
+Enter your contact info (email/phone): suman.pujar@example.com
+
+Question: 3 
+Problem Statement:
+
+A retail company is developing a stock management system to keep track of the quantities of various products in their warehouse. They want to create a program that can dynamically allocate memory for storing product quantities and determine the largest quantity among all the products.
+
+The company may receive new inventory updates regularly, and the system should be able to handle these changes by dynamically allocating the necessary memory for storing the updated list of product quantities. The program should then determine and display the product with the largest quantity.
+
+You are tasked with implementing a program that:
+
+Allocates memory for storing product quantities dynamically.
+Takes user input for the number of products and their respective quantities.
+Finds the product with the largest quantity and outputs that quantity.
+
+Input/Output:
+
+Enter the number of products: 5
+Enter the quantities for each product:
+Product 1 quantity: 50
+Product 2 quantity: 150
+Product 3 quantity: 200
+Product 4 quantity: 120
+Product 5 quantity: 80
+
+output: The largest quantity is: 200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
