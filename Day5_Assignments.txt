@@ -1,0 +1,49 @@
+Question:1 Student Record Management
+Problem Statement : Design a simple program that reads and writes student records to a test file and calculates the average score of students.
+
+Requirements:
+Store Student Records:
+
+Each student has a record consisting of:
+Student Name (string)
+Student ID (integer)
+Marks (float, representing the score out of 100)
+Write the Student Records to a File:
+
+The records should be stored in a text file )
+Each record should be saved on a new line.
+Format of each record should be:
+
+Student Name, Student ID, Marks
+Example:
+
+Suresh, 101, 89.5
+Ram, 102, 76.0
+
+Read from the File:
+
+Your program should read the records from the file.
+Extract the Marks from each record and store them in a list or array.
+Calculate the Average Marks:
+
+Calculate the average score of all students based on the marks read from the file.
+Display:
+
+Display the average marks of all students.
+Also, print each student's name, ID, and marks on the console for verification.
+
+Question:2
+Problem Statement:`  
+Given an array of `N integers`, find the `most frequently occurring` number.  
+- If multiple numbers occur with the same frequency, return the `smallest` one.  
+`Function Prototype:`  
+int mostFrequentElement(int arr[], int n);
+`Sample Test Case:`  
+`Input:`  
+Enter array size: 10  
+Enter elements: 3 1 3 2 1 3 4 1 1 5  
+`Output:`  
+Most Frequent Element: 1 (occurs 4 times)  
+
+
+
