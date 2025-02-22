@@ -1,0 +1,106 @@
+Question:1 Student Marks Sorting (Using 2D Arrays)
+Problem Statement:`  A college stores student marks in a `2D array` where:  
+- Rows represent students  
+- Columns represent subjects  
+1. Read marks for `N students across M subjects.  
+2. Calculate and display each student's total marks`.  
+3. Sort students in `descending order of total marks`.  
+
+Function Prototypes:`  
+void calculateTotalMarks(int marks[][M], int n, int totalMarks[]);
+void sortStudents(int totalMarks[], int n);
+`Sample Test Case:`  
+`Input:`  
+Enter number of students: 3  
+Enter number of subjects: 3  
+Enter marks:  
+Student 1: 70 80 90  
+Student 2: 85 90 95  
+Student 3: 60 70 75  
+`Output:`  
+Student 2: Total Marks = 270  
+Student 1: Total Marks = 240  
+Student 3: Total Marks = 205  
+
+Question:2 Develop  Student Management System (SMS) Project.
+Requirements:
+1. Introduction
+1.1 Purpose
+The Student Management System (SMS) is designed to automate and streamline the management of student information, course registration, grading, and administration processes within an educational institution. It aims to enhance efficiency, accuracy, and accessibility of student records for administrators, teachers, and students.
+1.2 Scope
+The SMS will provide a centralized platform for managing student enrollment, attendance tracking, grade management, and communication between students, faculty, and administrators. 
+1.3 Users
+•	Administrators: Manage user roles, course offerings, and overall system settings.
+•	Teachers: Enter grades, track attendance, and manage course-related tasks.
+•	Students: Register for courses, view grades, and track their academic progress.
+•	Parents (Optional): Monitor student performance and attendance.
+2. Functional Requirements
+2.1 User Management
+•	User authentication and role-based access control.
+•	Registration and profile management for students, teachers, and administrators.
+2.2 Student Enrollment
+•	Student registration with personal and academic details.
+•	Course enrollment with prerequisites validation.
+2.3 Course Management
+•	Creation and modification of courses.
+•	Assigning teachers to courses.
+2.4 Attendance Tracking
+•	Marking and viewing attendance records.
+•	Automated notifications for low attendance.
+2.5 Grading System
+•	Teachers can enter and modify student grades.
+•	Automated grade calculation based on predefined criteria.
+•	Generation of report cards and transcripts.
+2.6 Communication Module
+•	Messaging system for teachers, students, and administrators.
+•	Notifications for important updates (e.g., enrollment deadlines, exam schedules).
+2.7 Reporting and Analytics
+•	Student performance reports.
+•	Attendance reports.
+•	Course enrollment statistics.
+3. Non-Functional Requirements
+3.1 Performance Requirements
+•	Data retrieval and processing should be optimized for efficiency.
+3.2 Security Requirements
+•	Secure authentication and role-based access control.
+
+3.3 Usability Requirements
+•	Intuitive and user-friendly interface.
+3.4 Scalability
+•	The system should support future expansion in terms of users and functionalities.
+4. System Architecture
+•	The system will be developed using C language.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
